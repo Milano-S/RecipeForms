@@ -1,0 +1,13 @@
+C:\Users\milan\source\repos\RecipeApp2\RecipeApp2\bin\Debug\Database2.mdf
+C:\Users\milan\source\repos\RecipeApp2\RecipeApp2\bin\Debug\Database2_log.ldf
+C:\Users\milan\source\repos\RecipeApp2\RecipeApp2\bin\Debug\RecipeApp2.exe.config
+C:\Users\milan\source\repos\RecipeApp2\RecipeApp2\bin\Debug\RecipeApp2.exe
+C:\Users\milan\source\repos\RecipeApp2\RecipeApp2\bin\Debug\RecipeApp2.pdb
+C:\Users\milan\source\repos\RecipeApp2\RecipeApp2\obj\Debug\RecipeApp2.csproj.AssemblyReference.cache
+C:\Users\milan\source\repos\RecipeApp2\RecipeApp2\obj\Debug\RecipeApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\milan\source\repos\RecipeApp2\RecipeApp2\obj\Debug\RecipeApp2.frmMain.resources
+C:\Users\milan\source\repos\RecipeApp2\RecipeApp2\obj\Debug\RecipeApp2.Properties.Resources.resources
+C:\Users\milan\source\repos\RecipeApp2\RecipeApp2\obj\Debug\RecipeApp2.csproj.GenerateResource.cache
+C:\Users\milan\source\repos\RecipeApp2\RecipeApp2\obj\Debug\RecipeApp2.csproj.CoreCompileInputs.cache
+C:\Users\milan\source\repos\RecipeApp2\RecipeApp2\obj\Debug\RecipeApp2.exe
+C:\Users\milan\source\repos\RecipeApp2\RecipeApp2\obj\Debug\RecipeApp2.pdb
